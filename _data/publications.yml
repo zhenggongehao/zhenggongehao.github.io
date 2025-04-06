@@ -48,13 +48,13 @@ main:
     notes: 2025
  
  - title: Brewster anomalies in random media for free-electron radiation
-    authors: <strong>Zheng Gong</strong>, and Xiao Lin*
-    conference_short: Under preparation
-    conference: <strong>Under preparation</strong>
-    pdf: 
-    code:
-    image: ./assets/img/BrewsterAnomalies.png
-    notes: 2025
+   authors: <strong>Zheng Gong</strong>, and Xiao Lin*
+   conference_short: Under preparation
+   conference: <strong>Under preparation</strong>
+   pdf: 
+   code:
+   image: ./assets/img/BrewsterAnomalies.png
+   notes: 2025
     
   - title: Achromatic interfacial Cherenkov radiation
     authors: Xiangfeng Xi#, <strong>Zheng Gong#</strong>, Hongsheng Chen*, and Xiao Lin*
