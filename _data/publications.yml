@@ -28,7 +28,7 @@ main:
     bibtex: 
     image: ./assets/img/bilayerGraphene2.png
     notes: 2022
-    
+        
   - title: Ultra-directional transition radiation from deep-subwavelength epsilon-near-zero metamaterials
     authors: Zun Wang#, <strong>Zheng Gong#</strong>, Ruoxi Chen, Xiangfeng Xi, Jialin Chen, Yi Yang, Hongsheng Chen*, Erping Li, Ido Kaminer*, and Xiao Lin*
     conference_short: Under review
@@ -45,6 +45,15 @@ main:
     pdf: 
     code:
     image: ./assets/img/anomalousMG.png
+    notes: 2025
+ 
+ - title: Brewster anomalies in random media for free-electron radiation
+    authors: <strong>Zheng Gong</strong>, and Xiao Lin*
+    conference_short: Under preparation
+    conference: <strong>Under preparation</strong>
+    pdf: 
+    code:
+    image: ./assets/img/BrewsterAnomalies.png
     notes: 2025
     
   - title: Achromatic interfacial Cherenkov radiation
