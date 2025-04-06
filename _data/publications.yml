@@ -54,7 +54,7 @@ main:
     conference: <strong>Under preparation</strong>
     pdf: 
     code:
-    image: ./assets/img/BrewsterAnomalies.tif
+    image: ./assets/img/BrewsterAnomalies.png
     notes: 2025
     
   - title: Achromatic interfacial Cherenkov radiation
