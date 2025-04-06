@@ -49,8 +49,8 @@ main:
  
   - title: "Brewster anomalies in random media for free-electron radiation"
     authors: <strong>Zheng Gong</strong>, and Xiao Lin*
-    conference_short: "Under preparation"
-    conference: Under preparation
+    conference_short: Under preparation
+    conference: <strong>Under preparation</strong>
     pdf:
     code:
     image: ./assets/img/BrewsterAnomalies.png
