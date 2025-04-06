@@ -55,12 +55,3 @@ main:
    code:
    image: ./assets/img/BrewsterAnomalies.png
    notes: 2025
-    
-  - title: Achromatic interfacial Cherenkov radiation
-    authors: Xiangfeng Xi#, <strong>Zheng Gong#</strong>, Hongsheng Chen*, and Xiao Lin*
-    conference_short: Under preparation
-    conference: <strong>Under preparation</strong>
-    pdf: 
-    code:
-    image: ./assets/img/Achromatic_interfacialCR2.png
-    notes: 2025
