@@ -20,7 +20,7 @@ layout: homepage
 
 - **[Feb., 2025]** My paper on electron-light-random media interactions was [published on PNAS](https://www.pnas.org/doi/10.1073/pnas.2413336122)
 - **[April, 2024]** I gave an oral talk on [PhotonIcs and Electromagnetics Research Symposium, 2024](https://chengdu2024.piers.org/session.html?sid=S113)
-- **[Oct., 2023]** A high-power millimeter-wave source driven by keV free electrons has been assembled at the Haining campus of Zhejiang University. [Project supervised by Prof. Lin, conducted by Jialin, Ruoxi, and Zheng.]
+- **[Oct., 2023]** A high-power millimeter-wave source driven by keV free electrons has been assembled at Haining campus, ZJU. [Project supervised by Prof. Lin, conducted by Jialin, Ruoxi, and Zheng.]
 - **[Aug., 2023]** My paper on interfacial Cherenkov radiation from ultralow-energy electrons is [published on PNAS](https://www.pnas.org/doi/10.1073/pnas.2306601120)
 - **[Spring, 2023]** I served as a Teaching Assistant for the electromagnetic wave theory class for sophomore students
 - **[Jan., 2022]** I joined _Maxwell Running Group_ orginized by Prof. Xiao Lin
