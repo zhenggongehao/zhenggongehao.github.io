@@ -42,7 +42,7 @@ main:
     authors: <strong>Zheng Gong</strong>, Ruoxi Chen, Hongsheng Chen*, and Xiao Lin*
     conference_short: Under review
     conference: <strong>Under review</strong>
-    pdf: 
+    pdf: https://arxiv.org/abs/2504.05735 
     code:
     image: ./assets/img/anomalousMG.png
     notes: 2025
@@ -51,7 +51,7 @@ main:
     authors: <strong>Zheng Gong</strong>, and Xiao Lin*
     conference_short: Under preparation
     conference: <strong>Under preparation</strong>
-    pdf: https://arxiv.org/abs/2504.05735
+    pdf:
     code:
     image: ./assets/img/BrewsterAnomalies2.png
     notes: 2025
