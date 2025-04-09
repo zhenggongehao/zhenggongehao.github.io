@@ -51,7 +51,7 @@ main:
     authors: <strong>Zheng Gong</strong>, and Xiao Lin*
     conference_short: Under preparation
     conference: <strong>Under preparation</strong>
-    pdf:
+    pdf: https://arxiv.org/abs/2504.05735
     code:
     image: ./assets/img/BrewsterAnomalies2.png
     notes: 2025
