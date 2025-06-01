@@ -21,7 +21,7 @@ layout: homepage
 - **[Jan. 2025]** **Invited** oral presentation on Mat.+Opt. workshop, Beijing (organized by Wiley Editorial Team)
 - **[Sep. 2024]** **Invited** oral presentation on [IMWS-AMP, Nanjing](http://www.em-conf.com/imws-amp2024/conference/htm_special.php?title=Special%20Session)
 - **[April 2024]** Oral presentation on [Piers, Chengdu](https://chengdu2024.piers.org/session.html?sid=S113)
-- **[Oct. 2023]** A high-power millimeter-wave source driven by keV free electrons was assembled at Haining campus, ZJU. [Project supervised by Prof. Lin, conducted by Jialin, Ruoxi, and Zheng.]
+- **[Oct. 2023]** A high-power millimeter-wave source driven by keV free electrons was assembled at Haining campus, ZJU [supervised by Prof. Lin, led by Jialin 2021-2023, led by Zheng from July 2023 - now, assistance from Ruoxi (2021-now), Zun,Xiangfeng,Bowen(March 2025-now)]
 - **[Aug. 2023]** My paper on electron-light-ordered media interactions [appeared on PNAS](https://www.pnas.org/doi/10.1073/pnas.2306601120)
 - **[Spring 2023]** I served as a Teaching Assistant for the electromagnetic wave theory class for sophomore students
 - **[Jan. 2022]** I joined _Maxwell Running Group_ orginized by Prof. Xiao Lin
