@@ -17,7 +17,7 @@ layout: homepage
 
 ## News
 - **[Ongoing project, continuously updated]** A high-power light source driven by keV free electrons (assembled at ZJU’s Haining Campus, [Oct. 2023]); observation of visible light with the naked eye via electron-oscillator interactions, [April 2023].
--           (Project by Prof. Lin; led by Jialin [2021–2023] and Zheng [July 2023–present]; with assistance from Ruoxi [2021–present], Zun, Xiangfeng, and Bowen [March 2025–present])
+-           (Project led by Jialin [2021–2023] and Zheng [July 2023–present]; with assistance from Ruoxi [2021–present], Zun, Xiangfeng, and Bowen [March 2025–present])
 - **[May 2025]** Oral presentations on [CMMC, Shenzhen](https://www.metasoc.org.cn/cn/web/index/28310_2443311) **(invited)** and [PIERS, Abu Dhabi](https://abdb2025.piers.org/session.html?sid=S060) 
 - **[Feb. 2025]** My paper on electron-light-random media interactions [appeared on PNAS](https://www.pnas.org/doi/10.1073/pnas.2413336122)
 - **[Jan. 2025]** **Invited** oral presentation on Mat.+Opt. workshop, Beijing (organized by Wiley Editorial Team)
