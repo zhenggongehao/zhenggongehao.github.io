@@ -18,7 +18,7 @@ layout: homepage
 ## News
 - **[May 2025]** Oral presentations on [CMMC, Shenzhen](https://www.metasoc.org.cn/cn/web/index/28310_2443311) **(invited)** and [PIERS, Abu Dhabi](https://abdb2025.piers.org/session.html?sid=S060) 
 - **[Feb. 2025]** My paper on electron-light-random media interactions [appeared on PNAS](https://www.pnas.org/doi/10.1073/pnas.2413336122)
-- **[Jan. 2025]** **Invited** oral presentation on [Mat.+Opt. workshop, Beijing] (organized by Wiley Editorial Team)
+- **[Jan. 2025]** **Invited** oral presentation on Mat.+Opt. workshop, Beijing (organized by Wiley Editorial Team)
 - **[Sep. 2024]** **Invited** oral presentation on [IMWS-AMP, Nanjing](http://www.em-conf.com/imws-amp2024/conference/htm_special.php?title=Special%20Session)
 - **[April 2024]** Oral presentation on [Piers, Chengdu](https://chengdu2024.piers.org/session.html?sid=S113)
 - **[Oct. 2023]** A high-power millimeter-wave source driven by keV free electrons was assembled at Haining campus, ZJU. [Project supervised by Prof. Lin, conducted by Jialin, Ruoxi, and Zheng.]
