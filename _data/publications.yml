@@ -65,3 +65,11 @@ main:
     image: ./assets/img/BrewsterAnomalies2.png
     notes: 2025
     
+  - title: "Purcell-Brewster anomalies in random media for free-electron radiation"
+    authors: <strong>Zheng Gong</strong>, and Xiao Lin*
+    conference_short: Under preparation
+    conference: <strong>Under preparation</strong>
+    pdf:
+    code: https://zenodo.org/records/14211144
+    image: ./assets/img/BrewsterAnomalies2.png
+    notes: 2025
