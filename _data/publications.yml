@@ -4,7 +4,7 @@ main:
     conference_short: PNAS
     conference: <strong>Proceedings of the National Academy of Sciences of the USA</strong>
     pdf: https://www.pnas.org/doi/10.1073/pnas.2413336122
-    code: 
+    code: https://zenodo.org/records/14211144
     bibtex:
     image: ./assets/img/Brew2.png
     notes: 2025
@@ -14,7 +14,7 @@ main:
     conference_short: PNAS
     conference: <strong>Proceedings of the National Academy of Sciences of the USA</strong>
     pdf: https://www.pnas.org/doi/10.1073/pnas.2306601120
-    code: 
+    code:  https://doi.org/10.5281/zenodo.8284340
     bibtex:
     image: ./assets/img/interfacialCR.png
     notes: 2023
@@ -52,7 +52,7 @@ main:
     conference_short: Under review
     conference: <strong>Under review</strong>
     pdf:
-    code: https://doi.org/10.5281/zenodo.8284340
+    code:
     image: ./assets/img/Achromatic_interfacialCR2.png
     notes: 2025
     
@@ -61,15 +61,15 @@ main:
     conference_short: Under preparation
     conference: <strong>Under preparation</strong>
     pdf:
-    code: https://zenodo.org/records/14211144
+    code: 
     image: ./assets/img/BrewsterAnomalies2.png
     notes: 2025
     
-  - title: "Purcell-Brewster anomalies in random media for free-electron radiation"
-    authors: <strong>Zheng Gong</strong>, and Xiao Lin*
+  - title: "Purcell-Brewster anomalies"
+    authors: <strong>Zheng Gong#,*</strong>, Wenbo Ma#,* Hongsheng Chen, and Xiao Lin*
     conference_short: Under preparation
     conference: <strong>Under preparation</strong>
     pdf:
-    code: https://zenodo.org/records/14211144
+    code: 
     image: ./assets/img/BrewsterAnomalies2.png
     notes: 2025
