@@ -10,8 +10,8 @@ layout: homepage
 ## Research Interests
 - **Free-electron nanophotonics:** Cherenkov radiation, transition radiation
 - **Photonics and plasmonics:** light-matter interactions in photonic (time) crystals, random media, and other metamaterials
-#- **Deep learning in electromagnetics:** inverse design of metamaterials
-#- **Integrated photonic devices:** light sources, particle detectors, frequency combs
+<!-- - **Deep learning in electromagnetics:** inverse design of metamaterials
+#- **Integrated photonic devices:** light sources, particle detectors, frequency combs %}
 
 {% include_relative _includes/publications.md %}
 
