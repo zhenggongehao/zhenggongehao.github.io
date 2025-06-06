@@ -65,11 +65,11 @@ main:
     image: ./assets/img/BrewsterAnomalies2.png
     notes: 2025
     
-  - title: "Purcell-Brewster anomalies"
-    authors: <strong>Zheng Gong#,*</strong>, Wenbo Ma#, Hongsheng Chen, and Xiao Lin*
-    conference_short: Under preparation
-    conference: <strong>Under preparation</strong>
-    pdf:
-    code: 
-    image: ./assets/img/Purcell-Brewster anomalies2.png
-    notes: 2025
+#  - title: "Purcell-Brewster anomalies"
+#    authors: <strong>Zheng Gong#,*</strong>, Wenbo Ma#, Hongsheng Chen, and Xiao Lin*
+#    conference_short: Under preparation
+#    conference: <strong>Under preparation</strong>
+#    pdf:
+#    code: 
+#    image: ./assets/img/Purcell-Brewster anomalies2.png
+#    notes: 2025
