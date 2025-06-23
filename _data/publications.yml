@@ -56,7 +56,7 @@ main:
     image: ./assets/img/Achromatic_interfacialCR2.png
     notes: 2025
     
-  - title: "Brewster anomalies in random media for free-electron radiation"
+  - title: "Brewster-anomaly delocalization for free-electron radiation"
     authors: <strong>Zheng Gong</strong>, and Xiao Lin*
     conference_short: Under preparation
     conference: <strong>Under preparation</strong>
@@ -71,7 +71,7 @@ main:
     conference: <strong>Under preparation</strong>
     pdf:
     code: 
-    image: ./assets/img/blg-hBN.png
+    image: ./assets/img/blg-hBN2.png
     notes: 2025
     
 #  - title: "Purcell-Brewster anomalies"
