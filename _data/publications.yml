@@ -4,7 +4,7 @@ main:
     conference_short: PNAS
     conference: <strong>Proceedings of the National Academy of Sciences of the USA</strong>
     pdf: https://www.pnas.org/doi/10.1073/pnas.2413336122
-    code: https://zenodo.org/records/14211144
+    data: https://zenodo.org/records/14211144
     bibtex:
     image: ./assets/img/Brew2.png
     notes: 2025
@@ -14,7 +14,7 @@ main:
     conference_short: PNAS
     conference: <strong>Proceedings of the National Academy of Sciences of the USA</strong>
     pdf: https://www.pnas.org/doi/10.1073/pnas.2306601120
-    code:  https://doi.org/10.5281/zenodo.8284340
+    data:  https://doi.org/10.5281/zenodo.8284340
     bibtex:
     image: ./assets/img/interfacialCR.png
     notes: 2023
