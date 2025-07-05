@@ -3,7 +3,7 @@ main:
     authors: <strong>Zheng Gong</strong>, Ruoxi Chen, Zun Wang, Xiangfeng Xi, Yi Yang, Baile Zhang*, Hongsheng Chen*, Ido Kaminer, and Xiao Lin*
     conference_short: PNAS
     conference: <strong>Proceedings of the National Academy of Sciences of the USA</strong>
-    pdf: https://www.pnas.org/doi/10.1073/pnas.2413336122
+    pdf: ./assets/files/gong-et-al-free-electron-resonance-transition-radiation-via-brewster-randomness.pdf
     data: https://zenodo.org/records/14211144
     bibtex:
     image: ./assets/img/Brew2.png
@@ -13,7 +13,7 @@ main:
     authors: <strong>Zheng Gong</strong>, Jialin Chen, Ruoxi Chen, Xingjian Zhu, Chan Wang, Xinyan Zhang, Hao Hu, Yi Yang, Baile Zhang*, Hongsheng Chen*, Ido Kaminer, and Xiao Lin*
     conference_short: PNAS
     conference: <strong>Proceedings of the National Academy of Sciences of the USA</strong>
-    pdf: https://www.pnas.org/doi/10.1073/pnas.2306601120
+    pdf: ./assets/files/gong-et-al-interfacial-cherenkov-radiation-from-ultralow-energy-electrons.pdf
     data:  https://doi.org/10.5281/zenodo.8284340
     bibtex:
     image: ./assets/img/interfacialCR.png
