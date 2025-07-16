@@ -74,11 +74,20 @@ main:
     image: ./assets/img/blg-hBN2.png
     notes: 2025
     
-#  - title: "Purcell-Brewster anomalies"
-#    authors: <strong>Zheng Gong#,*</strong>, Wenbo Ma#, Hongsheng Chen, and Xiao Lin*
-#    conference_short: Under preparation
-#    conference: <strong>Under preparation</strong>
-#    pdf:
-#    data: 
-#    image: ./assets/img/Purcell-Brewster anomalies2.png
-#    notes: 2025
+  - title: "Purcell-Brewster anomalies"
+    authors: <strong>Zheng Gong#,*</strong>, Wenbo Ma#, and Xiao Lin*
+    conference_short: Under preparation
+    conference: <strong>Under preparation</strong>
+    pdf:
+    data: 
+    image: ./assets/img/Purcell-Brewster anomalies3.png
+    notes: 2025
+    
+  - title: "Inverse design for interfacial Cherenkov radiation"
+    authors: <strong>Zheng Gong#</strong>, and Xiao Lin*, Owen D. Miller*
+    conference_short: Under preparation
+    conference: <strong>Under preparation</strong>
+    pdf:
+    data: 
+    image: ./assets/img/inversedesign.png
+    notes: 2025
