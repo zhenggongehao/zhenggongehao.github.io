@@ -28,3 +28,12 @@ main:
     bibtex: 
     image: ./assets/img/bilayerGraphene2.png
     notes: 2022
+
+  - title: Anomalous Maxwell-Garnett theory for photonic time crystals
+    authors: <strong>Zheng Gong</strong>, Ruoxi Chen, Hongsheng Chen*, and Xiao Lin*
+    conference_short: Under review
+    conference: <strong>Under review</strong>
+    pdf: https://arxiv.org/abs/2504.05735 
+    data:
+    image: ./assets/img/anomalousMG.png
+    notes: 2025
