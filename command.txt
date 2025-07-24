@@ -1,0 +1,5 @@
+# 1. 修改文件后...
+git status              # 查看变更
+git add .              # 暂存所有修改
+git commit -m "更新文档" # 提交
+git push origin main   # 推送
