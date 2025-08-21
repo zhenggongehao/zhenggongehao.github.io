@@ -18,7 +18,16 @@ main:
     bibtex:
     image: ./assets/img/interfacialCR.png
     notes: 2023
-    
+
+  - title: Anomalous Maxwell-Garnett theory for photonic time crystals
+    authors: <strong>Zheng Gong</strong>, Ruoxi Chen, Hongsheng Chen*, and Xiao Lin*
+    conference_short: APR
+    conference: <strong>Applied Physics Reviews, accepted</strong>
+    pdf: https://arxiv.org/abs/2504.05735
+    data:
+    image: ./assets/img/anomalousMG.png
+    notes: 2025
+        
   - title: Photonic and plasmonic transition radiation from optically pumped bilayer graphene with gain
     authors: <strong>Zheng Gong</strong>, Hongxin Zhang*, and Xiao Lin*
     conference_short: Thesis
@@ -29,11 +38,4 @@ main:
     image: ./assets/img/bilayerGraphene2.png
     notes: 2022
 
-  - title: Anomalous Maxwell-Garnett theory for photonic time crystals
-    authors: <strong>Zheng Gong</strong>, Ruoxi Chen, Hongsheng Chen*, and Xiao Lin*
-    conference_short: APR
-    conference: <strong>Applied Physics Reviews, accepted</strong>
-    pdf: https://arxiv.org/abs/2504.05735
-    data:
-    image: ./assets/img/anomalousMG.png
-    notes: 2025
+
