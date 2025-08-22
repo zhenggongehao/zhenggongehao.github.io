@@ -1,8 +1,9 @@
-## Awards
+## Awards & Scholarship
 
 <h4 style="margin:0 10px 0;">PhD</h4>
 
 <ul style="margin:0 0 5px;">
+ <li><autocolor>Qiushi Flying Eagle Program, Zhejiang University, 2025 (Selected for exchange at Yale; yet U.S. visa application refused)</autocolor></li>
  <li><autocolor>Graduate with Merit A Performance, Zhejiang University, 2023 </autocolor></li>
  <li><autocolor>Award of Honor for Graduate, Zhejiang University, 2023 </autocolor></li>
  <!-- <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>注释此处 -->
