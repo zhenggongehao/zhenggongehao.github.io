@@ -16,7 +16,7 @@ layout: homepage
 {% include_relative _includes/publications.md %}
 
 ## News
-- **[Ongoing project, continuously updated]** keV-free-electron light source (_assembled and installed_ at ZJU [Oct. 2023], visible light _observed_ with naked eyes [April 2025], X-ray background signal detected [Aug. 2025]; **_Team effort_**: Jialin [lead, 2021–2023], , Ruoxi [assistance, 2021–2024], **Zheng [lead, July 2023–present; assistance, 2022–2023]**, Zun, Xiangfeng, and Bowen [assistance, March 2025–present], Prof. Lin [supervise, 2021–present])
+- **[Ongoing project, continuously updated]** keV-free-electron light source (_assembled and installed_ at [iZJU](https://www.intl.zju.edu.cn/en) [Oct. 2023], visible light _observed_ with naked eyes [April 2025], X-ray background signal detected [Aug. 2025]; **_Team effort_**: Jialin [lead, 2021–2023], , Ruoxi [assistance, 2021–2024], **Zheng [lead, July 2023–present; assistance, 2022–2023]**, Zun, Xiangfeng, and Bowen [assistance, March 2025–present], Prof. Lin [supervise, 2021–present])
 - **[May 2025]** Oral presentations on [CMMC, Shenzhen](https://www.metasoc.org.cn/cn/web/index/28310_2443311) **(invited)** and [PIERS, Abu Dhabi](https://abdb2025.piers.org/session.html?sid=S060) 
 - **[Feb. 2025]** My paper on electron-light-random media interactions [appeared on PNAS](https://www.pnas.org/doi/10.1073/pnas.2413336122)
 - **[Jan. 2025]** **Invited** oral presentation on Mat.+Opt. workshop, Beijing (organized by Wiley Editorial Team)
