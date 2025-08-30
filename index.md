@@ -21,7 +21,7 @@ layout: homepage
 - **[Feb. 2025]** My paper on electron-light-random media interactions [appeared on PNAS](https://www.pnas.org/doi/10.1073/pnas.2413336122)
 - **[Jan. 2025]** **Invited** oral presentation on Mat.+Opt. workshop, Beijing (organized by Wiley Editorial Team)
 - **[Sep. 2024]** **Invited** oral presentation on [IMWS-AMP, Nanjing](http://www.em-conf.com/imws-amp2024/conference/htm_special.php?title=Special%20Session)
-- **[April 2024]** Oral presentation on [Piers, Chengdu](https://chengdu2024.piers.org/session.html?sid=S113)
+- **[April 2024]** Oral presentation on [Piers, Chengdu](https://cd2024.piers.org/session.html?sid=S113)
 - **[Aug. 2023]** My paper on electron-light-ordered media interactions [appeared on PNAS](https://www.pnas.org/doi/10.1073/pnas.2306601120)
 - **[Spring 2023]** I served as a Teaching Assistant for the electromagnetic wave theory class for sophomore students
 - **[Jan. 2022]** I joined _Maxwell Running Group_ orginized by Prof. Xiao Lin
