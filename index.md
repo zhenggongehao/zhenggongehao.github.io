@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## Education
-- **2022-present:**  Direct-PhD. Student, Zhejiang University (advisors: Prof. [Xiao Lin](https://scholar.google.com/citations?user=DmHN_F8AAAAJ&hl=en&oi=ao) and Prof. [Hongsheng Chen](https://scholar.google.com/citations?user=w1p_Wf0AAAAJ&hl=zh-CN))
+- **2022-present:**  Direct-PhD. Student, Zhejiang University (advisors: Prof. [Xiao Lin](https://scholar.google.com/citations?user=DmHN_F8AAAAJ&hl=en&oi=ao){:target="_blank"} and Prof. [Hongsheng Chen](https://scholar.google.com/citations?user=w1p_Wf0AAAAJ&hl=zh-CN)){:target="_blank"}
 - **2018-2022:** Undergraduate, Beijing University of Posts and Telecommunications (graduate with the highest distinction)
 - **2015-2018:** Senior high school student, Jiangxi Linchuan No.1 Middle School
 
