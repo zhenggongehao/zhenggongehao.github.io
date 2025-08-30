@@ -3,8 +3,8 @@ main:
     authors: <strong>Zheng Gong</strong>, Ruoxi Chen, Zun Wang, Xiangfeng Xi, Yi Yang, Baile Zhang*, Hongsheng Chen*, Ido Kaminer, and Xiao Lin*
     conference_short: PNAS
     conference: <strong>Proceedings of the National Academy of Sciences of the USA</strong>
-    pdf: ./assets/files/gong-et-al-free-electron-resonance-transition-radiation-via-brewster-randomness.pdf{:target="_blank"}
-    data: https://zenodo.org/records/14211144{:target="_blank"}
+    pdf: ./assets/files/gong-et-al-free-electron-resonance-transition-radiation-via-brewster-randomness.pdf
+    data: https://zenodo.org/records/14211144
     bibtex:
     image: ./assets/img/Brew2.png
     notes: 2025
@@ -13,8 +13,8 @@ main:
     authors: <strong>Zheng Gong</strong>, Jialin Chen, Ruoxi Chen, Xingjian Zhu, Chan Wang, Xinyan Zhang, Hao Hu, Yi Yang, Baile Zhang*, Hongsheng Chen*, Ido Kaminer, and Xiao Lin*
     conference_short: PNAS
     conference: <strong>Proceedings of the National Academy of Sciences of the USA</strong>
-    pdf: ./assets/files/gong-et-al-interfacial-cherenkov-radiation-from-ultralow-energy-electrons.pdf{:target="_blank"}
-    data:  https://doi.org/10.5281/zenodo.8284340{:target="_blank"}
+    pdf: ./assets/files/gong-et-al-interfacial-cherenkov-radiation-from-ultralow-energy-electrons.pdf
+    data:  https://doi.org/10.5281/zenodo.8284340
     bibtex:
     image: ./assets/img/interfacialCR.png
     notes: 2023
@@ -23,7 +23,7 @@ main:
     authors: <strong>Zheng Gong</strong>, Ruoxi Chen, Hongsheng Chen*, and Xiao Lin*
     conference_short: APR
     conference: <strong>Applied Physics Reviews, In press</strong>
-    pdf: https://arxiv.org/abs/2504.05735{:target="_blank"}
+    pdf: https://arxiv.org/abs/2504.05735
     data:
     image: ./assets/img/anomalousMG.png
     notes: 2025
@@ -32,7 +32,7 @@ main:
     authors: <strong>Zheng Gong</strong>, Hongxin Zhang*, and Xiao Lin*
     conference_short: Thesis
     conference: <strong>Excellent bachelor's thesis of Beijing (Top 1%)</strong>
-    pdf: ./assets/files/（已压缩）github_论文合订版2.pdf{:target="_blank"}
+    pdf: ./assets/files/（已压缩）github_论文合订版2.pdf
     data: 
     bibtex: 
     image: ./assets/img/bilayerGraphene2.png
