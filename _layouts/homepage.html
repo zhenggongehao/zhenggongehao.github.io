@@ -115,6 +115,26 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+       <!-- 自动给外部链接加 target="_blank" -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        var anchors = document.querySelectorAll('a[href]');
+        anchors.forEach(function (a) {
+          try {
+            var url = new URL(a.getAttribute('href'), window.location.origin);
+            var isExternal = url.hostname !== window.location.hostname;
+            if (isExternal) {
+              if (!a.hasAttribute('target')) a.setAttribute('target', '_blank');
+              var rel = (a.getAttribute('rel') || '').split(/\s+/);
+              if (rel.indexOf('noopener') === -1) rel.push('noopener');
+              if (rel.indexOf('noreferrer') === -1) rel.push('noreferrer');
+              a.setAttribute('rel', rel.join(' ').trim());
+            }
+          } catch (e) {}
+        });
+      });
+    </script>
+   
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
