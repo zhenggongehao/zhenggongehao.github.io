@@ -25,7 +25,6 @@ main:
     conference: <strong>Applied Physics Reviews</strong>
     pdf: ./assets/files/2025_APR_Anomalous Maxwell-Garnett Theory for Photonic Time Crystals.pdf
     data: ./assets/files/2025_APR_SM_Anomalous Maxwell-Garnett Theory for Photonic Time Crystals.pdf
-    bibtex:
     image: ./assets/img/anomalousMG.png
     notes: 2025
         
