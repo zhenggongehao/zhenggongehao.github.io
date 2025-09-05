@@ -23,8 +23,8 @@ main:
     authors: <strong>Zheng Gong</strong>, Ruoxi Chen, Hongsheng Chen*, and Xiao Lin*
     conference_short: APR
     conference: <strong>Applied Physics Reviews</strong>
-    pdf: ./assets/files/2025_APR_Gong_Anomalous_Maxwell-Garnett_Theory_for_Photonic_Time_Crystals.pdf
-    data: ./assets/files/2025_APR_SM_Gong_Anomalous_Maxwell-Garnett_Theory_for_Photonic_Time_Crystals.pdf
+    pdf: ./assets/files/2025_APR_Gong_Anomalous Maxwell-Garnett Theory for Photonic Time Crystals.pdf
+    data: ./assets/files/2025_APR_SM_Gong_Anomalous Maxwell-Garnett Theory for Photonic Time Crystals.pdf
     bibtex:
     image: ./assets/img/anomalousMG.png
     notes: 2025
