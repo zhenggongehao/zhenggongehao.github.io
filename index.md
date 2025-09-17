@@ -21,7 +21,7 @@ layout: homepage
 - **[May 2025]** Oral presentations on [CMMC, Shenzhen](https://www.metasoc.org.cn/cn/web/index/28310_2443311){:target="_blank"} **(invited)** and [PIERS, Abu Dhabi](https://abdb2025.piers.org/session.html?sid=S060){:target="_blank"} 
 - **[Feb. 2025]** My paper on electron-light-random media interactions [appeared on PNAS](https://www.pnas.org/doi/10.1073/pnas.2413336122){:target="_blank"}
 - **[Jan. 2025]** **Invited** oral presentation on Mat.+Opt. workshop, Beijing (organized by Wiley Editorial Team)
-- **[Sep. 2024]** **Invited** oral presentation on [IMWS-AMP, Nanjing](http://www.em-conf.com/imws-amp2024/conference/htm_special.php?title=Special%20Session){:target="_blank"}
+- **[Nov. 2024]** **Invited** oral presentation on [IMWS-AMP, Nanjing](http://www.em-conf.com/imws-amp2024/conference/htm_special.php?title=Special%20Session){:target="_blank"}
 - **[April 2024]** Oral presentation on [Piers, Chengdu](https://cd2024.piers.org/session.html?sid=S113){:target="_blank"}
 - **[Aug. 2023]** My paper on electron-light-ordered media interactions [appeared on PNAS](https://www.pnas.org/doi/10.1073/pnas.2306601120){:target="_blank"}
 - **[Spring 2023]** I served as a Teaching Assistant for the electromagnetic wave theory class for sophomore students
