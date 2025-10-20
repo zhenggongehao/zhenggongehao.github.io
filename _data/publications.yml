@@ -27,7 +27,16 @@ main:
     data: ./assets/files/2025_APR_SM_Anomalous_Maxwell-Garnett_Theory_for_Photonic_Time_Crystals.pdf
     image: ./assets/img/anomalousMG.png
     notes: 2025
-        
+
+  - title: Ultra-directional transition radiation from deep-subwavelength epsilon-near-zero metamaterials
+    authors: Zun Wang#, <strong>Zheng Gong#</strong>, Ruoxi Chen, Xiangfeng Xi, Jialin Chen, Yi Yang, Hongsheng Chen*, Erping Li, Ido Kaminer*, and Xiao Lin*
+    conference_short: accepted
+    conference: <strong>accepted</strong>
+    pdf: 
+    data:
+    image: ./assets/img/DirectionalTR6.png
+    notes: 2025
+
   - title: Photonic and plasmonic transition radiation from optically pumped bilayer graphene with gain
     authors: <strong>Zheng Gong</strong>, Hongxin Zhang*, and Xiao Lin*
     conference_short: Thesis
@@ -37,5 +46,3 @@ main:
     bibtex: 
     image: ./assets/img/bilayerGraphene2.png
     notes: 2022
-
-
