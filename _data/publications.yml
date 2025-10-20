@@ -33,7 +33,7 @@ main:
     conference_short: AOM
     conference: <strong>Accepted, Adavanced Optical Materials</strong>
     pdf: 
-    data:
+    data: https://doi.org/10.5281/zenodo.16787458
     image: ./assets/img/DirectionalTR6.png
     notes: 2025
 
