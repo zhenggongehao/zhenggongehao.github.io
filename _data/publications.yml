@@ -30,8 +30,8 @@ main:
 
   - title: Ultra-directional transition radiation from deep-subwavelength epsilon-near-zero metamaterials
     authors: Zun Wang#, <strong>Zheng Gong#</strong>, Ruoxi Chen, Xiangfeng Xi, Jialin Chen, Yi Yang, Hongsheng Chen*, Erping Li, Ido Kaminer*, and Xiao Lin*
-    conference_short: accepted
-    conference: <strong>accepted</strong>
+    conference_short: AOM
+    conference: <strong>Accepted, Adavanced Optical Materials</strong>
     pdf: 
     data:
     image: ./assets/img/DirectionalTR6.png
