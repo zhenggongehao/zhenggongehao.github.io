@@ -27,3 +27,12 @@ main:
     data: 
     image: ./assets/img/anomalousMG.png
     notes: 2025
+
+    - title: Ultra-directional transition radiation from deep-subwavelength epsilon-near-zero metamaterials
+    authors: Zun Wang#, <strong>Zheng Gong#</strong>, Ruoxi Chen, Xiangfeng Xi, Jialin Chen, Yi Yang, Hongsheng Chen*, Erping Li, Ido Kaminer*, and Xiao Lin*
+    conference_short: AOM
+    conference: <strong>Adavanced Optical Materials, in press</strong>
+    pdf: 
+    data: https://doi.org/10.5281/zenodo.16787458
+    image: ./assets/img/DirectionalTR6.png
+    notes: 2025
