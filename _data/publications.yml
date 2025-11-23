@@ -32,7 +32,7 @@ main:
     authors: Zun Wang#, <strong>Zheng Gong#</strong>, Ruoxi Chen, Xiangfeng Xi, Jialin Chen, Yi Yang, Hongsheng Chen*, Erping Li, Ido Kaminer*, and Xiao Lin*
     conference_short: AOM
     conference: <strong>Adavanced Optical Materials, in press</strong>
-    pdf: 
+    pdf: ./assets/files/2025_AOM_Ultra-directional_Transition_Radiation_from_Deep-subwavelength_Epsilon-near-zero_Metamaterials.pdf
     data: https://doi.org/10.5281/zenodo.16787458
     image: ./assets/img/DirectionalTR6.png
     notes: 2025
