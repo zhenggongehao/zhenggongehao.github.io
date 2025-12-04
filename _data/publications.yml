@@ -37,7 +37,7 @@ main:
     image: ./assets/img/DirectionalTR6.png
     notes: 2025
 
-    - title: Reversed Cherenkov radiation via Fizeau-Fresnel drag
+  - title: Reversed Cherenkov radiation via Fizeau-Fresnel drag
     authors: Bowen Zhang#, <strong>Zheng Gong#</strong>, Ruoxi Chen, Xuhuinan Chen, Yi Yang, Hongsheng Chen*, Ido Kaminer*, and Xiao Lin*
     conference_short: APR
     conference: <strong>Applied Physics Reviews,in press</strong>
