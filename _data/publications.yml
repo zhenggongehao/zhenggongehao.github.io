@@ -41,7 +41,7 @@ main:
     authors: Bowen Zhang#, <strong>Zheng Gong#</strong>, Ruoxi Chen, Xuhuinan Chen, Yi Yang, Hongsheng Chen*, Ido Kaminer*, and Xiao Lin*
     conference_short: APR
     conference: <strong>Applied Physics Reviews (Featured by Editors), in press</strong>
-    pdf:
+    pdf: ./assets/files/2025_APR_Reversed Cherenkov radiation via Fizeau–Fresnel drag.pdf
     data:
     bibtex:
     image: ./assets/img/ReversedCR7.png
