@@ -26,6 +26,6 @@ layout: homepage
 - **[April 2024]** Oral presentation on [Piers, Chengdu](https://cd2024.piers.org/session.html?sid=S113){:target="_blank"}
 - **[Aug. 2023]** My paper on electron-light-ordered media interactions [appeared on PNAS](https://www.pnas.org/doi/10.1073/pnas.2306601120){:target="_blank"}
 - **[Spring 2023]** I served as a Teaching Assistant for the [electromagnetic wave theory](https://piers.org/about/book.html){:target="_blank"} class for sophomore students
-- **[Jan. 2022]** I joined [_Maxwell Running Group_](./assets/img/Maxwell%20Running%20Group.png){:target="_blank"} orginized by Prof. Xiao Lin
+- **[Jan. 2022]** I joined [Maxwell Running Group](./assets/img/Maxwell%20Running%20Group.png){:target="_blank"} orginized by Prof. Xiao Lin
 
 {% include_relative _includes/services.md %}
