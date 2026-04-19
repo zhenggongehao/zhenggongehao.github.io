@@ -31,8 +31,8 @@ main:
   - title: "Achromatic interfacial Cherenkov radiation from photonic crystals"
     authors: Xiangfeng Xi#, <strong>Zheng Gong#</strong>, Ruoxi Chen, Zun Wang, Owen D. Miller, Yi Yang, Hongsheng Chen*, Ido Kaminer*, and Xiao Lin*
     conference_short: APR
-    conference: <strong>Applied Physics Reviews, in press</strong>
-    pdf:
+    conference: <strong>Applied Physics Reviews</strong>
+    pdf: ./assets/files/2026_APR_Achromatic Interfacial Cherenkov Radiation From Photonic Crystals.pdf
     data:
     image: ./assets/img/Achromatic_interfacialCR2.png
     notes: 2026
