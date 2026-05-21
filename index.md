@@ -9,8 +9,8 @@ layout: homepage
 - **2015-2018:** Senior high school student, Jiangxi Linchuan No.1 Middle School
 
 ## Research Interests
-- **Free-electron radiation nanophotonics:** transition radiation, Cherenkov radiation, tailored light sources, particle detectors
-- **Complex media:** disordered media, time-varying media, plasmonics, microwave measurements
+- **Free-electron radiation:** transition radiation, Cherenkov radiation, tailored light sources, particle detectors
+- **Complex media:** disordered media, time-varying media, plasmonics, inverse design, microwave scattering experiment
 - **Quantum optics:** quantum estimation, Fisher information, quantum metrology
 
 {% include_relative _includes/publications.md %}
