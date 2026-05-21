@@ -10,8 +10,8 @@ layout: homepage
 
 ## Research Interests
 - **Free-electron radiation nanophotonics:** transition radiation, Cherenkov radiation, tailored light sources, particle detectors
-- **Complex media:** disordered media, time-varying media, plasmonics, extreme scattering measurements
-- **Quantum optics:** quantum estimation theory, Fisher information, quantum metrology
+- **Complex media:** disordered media, time-varying media, plasmonics, microwave measurements
+- **Quantum optics:** quantum estimation, Fisher information, quantum metrology
 
 {% include_relative _includes/publications.md %}
 
