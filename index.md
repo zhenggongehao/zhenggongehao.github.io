@@ -10,7 +10,7 @@ layout: homepage
 
 ## Research Interests
 - **Free-electron radiation:** transition radiation, Cherenkov radiation, tailored light sources, particle detectors
-- **Complex media:** disordered media, time-varying media, plasmonics, inverse design, microwave scattering experiment
+- **Complex media:** disordered media, time-varying media, plasmonics, inverse design, deep learning, microwave scattering experiment
 - **Quantum optics:** quantum estimation, Fisher information, quantum metrology
 
 {% include_relative _includes/publications.md %}
