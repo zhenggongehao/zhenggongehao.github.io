@@ -6,7 +6,7 @@ main:
     pdf: ./assets/files/20260729_combinedPDF_BrewsterAnomaliesFree-electron.pdf
     data:
     bibtex:
-    image: ./assets/img/BrewsterAnomalies.png
+    image: ./assets/img/BrewsterAnomalies (2).png
     notes: 2026
 
   - title: Free-electron resonance transition radiation via Brewster randomness
