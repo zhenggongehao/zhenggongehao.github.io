@@ -18,7 +18,7 @@ layout: homepage
 
 ## News
 - **[Ongoing project, continuously updated]** keV-free-electron beam source (_assembled and installed_ at [iZJU](https://www.intl.zju.edu.cn/en){:target="_blank"} [Oct. 2023], visible light _observed_ with naked eyes [April 2025], X-ray background signal detected [Aug. 2025]; **_Team effort_**: Jialin [lead, 2021–2023], , Ruoxi [assistance, 2021–2024], **Zheng [lead, July 2023–present; assistance, 2022–2023]**, Zun, Xiangfeng, and Bowen [assistance, March 2025–present], Prof. Lin [supervise, 2021–present])
-- **[Sep. 2026]** My paper on electron-light--random media interactions accepted by PRL
+- **[Sep. 2026]** My paper on electron-light--random media interactions is [accepted by PRL](https://journals.aps.org/prl/accepted/10.1103/fkp4-9l19)
 - **[Dec. 2025]** Selected as one of top 100 Ph.D. students university-wide for Qiushi Rising Star Scholarship
 - **[Aug. 2025]** **Invited** oral presentations on [Zhejiang-Cambridge University Youth Scientist Forum](./assets/files/Program%20V1.1(2).pdf){:target="_blank"}
 - **[May 2025]** Oral presentations on **CMMC, Shenzhen (invited)** and [PIERS, Abu Dhabi](https://abdb2025.piers.org/session.html?sid=S060){:target="_blank"} 
@@ -26,7 +26,7 @@ layout: homepage
 - **[Jan. 2025]** **Invited** oral presentation on Wiley Mat.+Opt. workshop, Beijing
 - **[Nov. 2024]** **Invited** oral presentation on [IMWS-AMP, Nanjing](http://www.em-conf.com/imws-amp2024/conference/htm_special.php?title=Special%20Session){:target="_blank"}
 - **[April 2024]** Oral presentation on [Piers, Chengdu](https://cd2024.piers.org/session.html?sid=S113){:target="_blank"}
-- **[Aug. 2023]** My paper on electron-light-ordered media interactions [appeared on PNAS](https://www.pnas.org/doi/10.1073/pnas.2306601120){:target="_blank"}
+- **[Aug. 2023]** My paper on electron-light--ordered media interactions [appeared on PNAS](https://www.pnas.org/doi/10.1073/pnas.2306601120){:target="_blank"}
 - **[Spring 2023]** I served as a Teaching Assistant for the [electromagnetic wave theory](https://piers.org/about/book.html){:target="_blank"} class for sophomore students
 - **[Jan. 2022]** I joined [Maxwell Running Group](./assets/img/Maxwell%20Running%20Group.png){:target="_blank"} orginized by Prof. Xiao Lin
 
