@@ -16,7 +16,6 @@ layout: homepage
 {% include_relative _includes/publications.md %}
 
 ## News
-- **[Ongoing project, continuously updated]** keV-free-electron beam source (_assembled and installed_ at [iZJU](https://www.intl.zju.edu.cn/en){:target="_blank"} [Oct. 2023], visible light _observed_ with naked eyes [April 2025], X-ray background signal detected [Aug. 2025]; **_Team effort_**: Jialin [lead, 2021–2023], , Ruoxi [assistance, 2021–2024], **Zheng [lead, July 2023–present; assistance, 2022–2023]**, Zun, Xiangfeng, and Bowen [assistance, March 2025–present], Prof. Lin [supervise, 2021–present])
 - **[Sep. 2026]** My paper on electron-light--random media interactions is [accepted by PRL](https://journals.aps.org/prl/accepted/10.1103/fkp4-9l19)
 - **[Dec. 2025]** Selected as one of top 100 Ph.D. students university-wide for Qiushi Rising Star Scholarship
 - **[Aug. 2025]** **Invited** oral presentations on [Zhejiang-Cambridge University Youth Scientist Forum](./assets/files/Program%20V1.1(2).pdf){:target="_blank"}
@@ -28,5 +27,6 @@ layout: homepage
 - **[Aug. 2023]** My paper on electron-light--ordered media interactions [appeared on PNAS](https://www.pnas.org/doi/10.1073/pnas.2306601120){:target="_blank"}
 - **[Spring 2023]** I served as a Teaching Assistant for the [electromagnetic wave theory](https://piers.org/about/book.html){:target="_blank"} class for sophomore students
 - **[Jan. 2022]** I joined [Maxwell Running Group](./assets/img/Maxwell%20Running%20Group.png){:target="_blank"} orginized by Prof. Xiao Lin
+- **[Ongoing project, continuously updated]** keV-free-electron beam source (_assembled and installed_ at [iZJU](https://www.intl.zju.edu.cn/en){:target="_blank"} [Oct. 2023], visible light _observed_ with naked eyes [April 2025], X-ray background signal detected [Aug. 2025]; **_Team effort_**: Jialin [lead, 2021–2023], , Ruoxi [assistance, 2021–2024], **Zheng [lead, July 2023–present; assistance, 2022–2023]**, Zun, Xiangfeng, and Bowen [assistance, March 2025–present], Prof. Lin [supervise, 2021–present])
 
 {% include_relative _includes/services.md %}
