@@ -3,14 +3,13 @@ layout: homepage
 ---
 
 ## Education
-- **2026-present:**  [Visiting researcher, TU Wien](https://rottergroup.itp.tuwien.ac.at/new-visiting-phd-student/){:target="_blank"} (advisor: Prof. [Stefan Rotter](https://scholar.google.com/citations?user=qvKcICQAAAAJ&hl=en){:target="_blank"})
-- **2022-present:**  Direct-PhD. Student, Zhejiang University (advisors: Prof. [Xiao Lin](https://scholar.google.com/citations?user=DmHN_F8AAAAJ&hl=en){:target="_blank"} and Prof. [Hongsheng Chen](https://scholar.google.com/citations?user=w1p_Wf0AAAAJ&hl=en){:target="_blank"})
+- **2026-present:**  [Visiting Ph.D. student](https://rottergroup.itp.tuwien.ac.at/new-visiting-phd-student/){:target="_blank"}, TU Wien (advisor: Prof. [Stefan Rotter](https://scholar.google.com/citations?user=qvKcICQAAAAJ&hl=en){:target="_blank"})
+- **2022-present:**  Direct-Ph.D. Student, Zhejiang University (advisors: Profs. [Xiao Lin](https://scholar.google.com/citations?user=DmHN_F8AAAAJ&hl=en){:target="_blank"} and [Hongsheng Chen](https://scholar.google.com/citations?user=w1p_Wf0AAAAJ&hl=en){:target="_blank"})
 - **2018-2022:** Undergraduate, Beijing University of Posts and Telecommunications (graduate with the highest distinction)
-- **2015-2018:** Senior high school student, Jiangxi Linchuan No.1 Middle School
 
 ## Research Interests
 - **Free-electron radiation:** transition radiation, Cherenkov radiation, tailored light sources, particle detectors
-- **Complex media:** disordered media, time-varying media, plasmonics, microwave scattering experiment
+- **Complex media:** disordered media, time-varying media, plasmonics, scattering experiment
 - **inverse design:** optimization, deep learning, fundamental limit
 - **Quantum optics:** quantum estimation, Fisher information, quantum metrology
 
