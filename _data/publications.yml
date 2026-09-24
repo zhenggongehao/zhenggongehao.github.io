@@ -1,6 +1,6 @@
 main:
   - title: Zero-forward Kerker scattering via synthesized complex-frequency excitation
-    authors: Jianfei Liu, <strong>Zheng Gong#</strong>, Ao Li, Hongsheng Chen, Stefan Rotter, and Xiao Lin
+    authors: Jianfei Liu, <strong>Zheng Gong#</strong>, Ao Li, Hongsheng Chen, Stefan Rotter*, and Xiao Lin*
     conference_short: ArXiv
     conference: <strong>arXiv preprint</strong>
     pdf: ./assets/files/20260924_combined_Kerker.pdf
