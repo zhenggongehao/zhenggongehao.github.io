@@ -6,7 +6,7 @@ main:
     pdf: ./assets/files/20260924_combined_Kerker.pdf
     data:
     bibtex:
-    image: ./assets/img/kerker1.png
+    image: ./assets/img/kerker2.png
     notes: 2026
 
   - title: Brewster-anomaly delocalization for free-electron radiation
