@@ -12,7 +12,7 @@ main:
   - title: Brewster-anomaly delocalization for free-electron radiation
     authors: <strong>Zheng Gong</strong>, Xiangfeng Xi, Hongsheng Chen, Owen D. Miller*, Stefan Rotter*, and Xiao Lin*
     conference_short: PRL
-    conference: <strong>Physical Review Letters, In press<br>(Editors' Suggestion & Featured in Physics Magazine)</strong>
+    conference: <strong>Physical Review Letters, In press<br>Editors' Suggestion & Featured in Physics Magazine</strong>
     pdf: ./assets/files/20260729_combinedPDF_BrewsterAnomaliesFree-electron.pdf
     data:
     bibtex:
@@ -51,7 +51,7 @@ main:
   - title: Reversed Cherenkov radiation via Fizeau-Fresnel drag
     authors: Bowen Zhang#, <strong>Zheng Gong#</strong>, Ruoxi Chen, Xuhuinan Chen, Yi Yang, Hongsheng Chen*, Ido Kaminer*, and Xiao Lin*
     conference_short: APR
-    conference: <strong>Applied Physics Reviews (Featured by Editors)</strong>
+    conference: <strong>Applied Physics Reviews<br>Featured by Editors</strong>
     pdf: ./assets/files/2025_APR_Reversed Cherenkov radiation via Fizeau–Fresnel drag.pdf
     data:
     bibtex:
