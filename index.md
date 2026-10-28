@@ -16,7 +16,7 @@ layout: homepage
 {% include_relative _includes/publications.md %}
 
 ## News
-- **[Sep. 2026]** My paper on electron-light--random media interactions is [accepted by PRL](https://journals.aps.org/prl/accepted/10.1103/fkp4-9l19)
+- **[Oct. 2026]** My paper on electron-light--random media interactions, picked as Editors' suggestion and featured by Physics, [appeared on PRL](https://journals.aps.org/prl/abstract/10.1103/fkp4-9l19)
 - **[Dec. 2025]** Selected as one of top 100 Ph.D. students university-wide for Qiushi Rising Star Scholarship
 - **[Aug. 2025]** **Invited** oral presentations on [Zhejiang-Cambridge University Youth Scientist Forum](./assets/files/Program%20V1.1(2).pdf){:target="_blank"}
 - **[May 2025]** Oral presentations on **CMMC, Shenzhen (invited)** and [PIERS, Abu Dhabi](https://abdb2025.piers.org/session.html?sid=S060){:target="_blank"} 
