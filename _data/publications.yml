@@ -12,8 +12,8 @@ main:
   - title: Brewster-anomaly delocalization for free-electron radiation
     authors: <strong>Zheng Gong</strong>, Xiangfeng Xi, Hongsheng Chen, Owen D. Miller*, Stefan Rotter*, and Xiao Lin*
     conference_short: PRL
-    conference: <strong>Physical Review Letters, In press<br>Editors' Suggestion & Featured in Physics Magazine</strong>
-    pdf: ./assets/files/20260729_combinedPDF_BrewsterAnomaliesFree-electron.pdf
+    conference: <strong>Physical Review Letters<br>Editors' Suggestion & Featured in Physics Magazine</strong>
+    pdf: ./assets/files/2026_PRL_Brewster-Anomaly Delocalization for Free-Electron Radiation.pdf
     data:
     bibtex:
     image: ./assets/img/BrewsterAnomalies (2).png
