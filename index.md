@@ -11,8 +11,8 @@ layout: homepage
 - **Free-electron radiation:** transition radiation, Cherenkov radiation, tailored light sources, particle detectors
 - **Complex media:** disordered media, time-varying media, surface polaritons, scattering experiment
 - **inverse design:** optimization, fundamental limit
-- **Quantum optics:** quantum estimation, Fisher information, quantum metrology
-
+- **quantum metrology:** Fisher information, quantum estimation
+  
 {% include_relative _includes/publications.md %}
 
 ## News
