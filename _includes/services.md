@@ -6,8 +6,7 @@
  <li><autocolor>Award of Honor for Graduate, Zhejiang University, 2023, 2025 </autocolor></li>
  <li><autocolor>Graduate with Merit A Performance, Zhejiang University, 2023 </autocolor></li>
  <li><autocolor>Excellent bachelor's thesis of Beijing (Top 1% among all graduates of Beijing), 2022 </autocolor></li>
- <li><autocolor>Outstanding graduates of Beijing (Top 1%), 2022 </autocolor></li>
- <li><autocolor>Excellent graduates of Beijing University of Posts and Telecommunications (Top 3%), 2022 </autocolor></li>
+ <li><autocolor>Excellent graduates of Beijing (Top 1%), 2022 </autocolor></li>
  <li><autocolor>Numerous undergraduate scholarship and awards </autocolor></li>
 
 </ul>
