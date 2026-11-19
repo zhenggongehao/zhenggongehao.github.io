@@ -1,7 +1,4 @@
 ## Awards & Scholarship
-
-<h4 style="margin:0 10px 0;">PhD</h4>
-
 <ul style="margin:0 0 5px;">
 
  <li><autocolor>Qiushi Rising Star Scholarship, Zhejiang University, Jan. 1, 2026 - June 30, 2027</autocolor></li>
