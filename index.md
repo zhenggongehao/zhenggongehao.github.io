@@ -1,10 +1,12 @@
 ---
 layout: homepage
 ---
+## About
+I am on the job market for postdoctoral positions starting [Fall 2027]. I expect to receive my Ph.D. in [June 2027].
 
 ## Education
+- **2022-2027 (expected):**  Direct-Ph.D. Student, [ZJU](https://en.wikipedia.org/wiki/Zhejiang_University){:target="_blank"} (advisors: Profs. [Xiao Lin](https://scholar.google.com/citations?user=DmHN_F8AAAAJ&hl=en){:target="_blank"} and [Hongsheng Chen](https://scholar.google.com/citations?user=w1p_Wf0AAAAJ&hl=en){:target="_blank"})
 - **2026-present:**  Visiting Ph.D. student, [TU Wien](https://en.wikipedia.org/wiki/TU_Wien){:target="_blank"} (advisor: Prof. [Stefan Rotter](https://scholar.google.com/citations?user=qvKcICQAAAAJ&hl=en){:target="_blank"})
-- **2022-present:**  Direct-Ph.D. Student, [ZJU](https://en.wikipedia.org/wiki/Zhejiang_University){:target="_blank"} (advisors: Profs. [Xiao Lin](https://scholar.google.com/citations?user=DmHN_F8AAAAJ&hl=en){:target="_blank"} and [Hongsheng Chen](https://scholar.google.com/citations?user=w1p_Wf0AAAAJ&hl=en){:target="_blank"})
 - **2018-2022:** Undergraduate, [BUPT](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications){:target="_blank"} (graduate with the highest distinction)
 
 ## Research Interests
