@@ -2,7 +2,7 @@
 layout: homepage
 ---
 ## About
-I am on the job market for postdoctoral positions starting [Fall 2027]. I expect to receive my Ph.D. in [June 2027].
+I expect to receive my Ph.D. in June 2027 and am now seeking postdoctoral positions starting Summer 2027. :)
 
 ## Education
 - **2022-2027 (expected):**  Direct-Ph.D. Student, [ZJU](https://en.wikipedia.org/wiki/Zhejiang_University){:target="_blank"} (advisors: Profs. [Xiao Lin](https://scholar.google.com/citations?user=DmHN_F8AAAAJ&hl=en){:target="_blank"} and [Hongsheng Chen](https://scholar.google.com/citations?user=w1p_Wf0AAAAJ&hl=en){:target="_blank"})
