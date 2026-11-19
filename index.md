@@ -2,7 +2,7 @@
 layout: homepage
 ---
 ## About
-- Please do not hesitate to [contact me](mailto:zhenggongehao@zju.edu.cn) if you are interested in collaborating!
+- I am currently seeking postdoctoral positions starting in summer 2027. Please do not hesitate to [contact me](mailto:zhenggongehao@zju.edu.cn) if you are interested in collaborating!
 
 ## Education
 - **2022-2027 (expected):**  Direct-Ph.D. Student, [ZJU](https://en.wikipedia.org/wiki/Zhejiang_University){:target="_blank"} (advisors: Profs. [Xiao Lin](https://scholar.google.com/citations?user=DmHN_F8AAAAJ&hl=en){:target="_blank"} and [Hongsheng Chen](https://scholar.google.com/citations?user=w1p_Wf0AAAAJ&hl=en){:target="_blank"})
